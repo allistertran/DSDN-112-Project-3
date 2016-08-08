@@ -1,0 +1,14 @@
+body{
+    background-color: #debab2;
+}
+
+#finaltext{
+    position: absolute;
+    bottom:200px;
+    left: 800px;
+}
+
+p{
+    color: white;
+    font-size: 80px;
+}
